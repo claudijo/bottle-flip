@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39c4ef96-95ef-467b-870e-9dcd959b7e6e" name="Changes" comment="Update screen shots" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="qvrhsx8s" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ltBTNt3WMfBkWLjKcWJSX5wAyS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "<unknown>",
+    "last_opened_file_path": "/Users/claudijo/Projects/bottle_flip/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/src/container" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cargo.Run bevy_github_ci_template">
+    <configuration name="Run bevy_github_ci_template" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package bevy_github_ci_template --bin bevy_github_ci_template" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test bevy_github_ci_template" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="test --workspace" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39c4ef96-95ef-467b-870e-9dcd959b7e6e" name="Changes" comment="" />
+      <created>1725989498478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725989498478</updated>
+      <workItem from="1725989499563" duration="45227000" />
+      <workItem from="1726144569070" duration="16303000" />
+      <workItem from="1726204378750" duration="75447000" />
+      <workItem from="1726493377189" duration="44881000" />
+    </task>
+    <task id="LOCAL-00001" summary="Project setup, render rotating bottle, and basic logic for water distribution in container">
+      <option name="closed" value="true" />
+      <created>1726055038430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726055038430</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implement how vertices for liquid in rotating bottle">
+      <option name="closed" value="true" />
+      <created>1726145897036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726145897036</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Distribute water as bottle rotates">
+      <option name="closed" value="true" />
+      <created>1726171321940</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726171321940</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add physics engine and simulate water by two circles">
+      <option name="closed" value="true" />
+      <created>1726253903390</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726253903390</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Trim som basic initial parameters">
+      <option name="closed" value="true" />
+      <created>1726298277539</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726298277539</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add primitives and colliders for bottle top and cap">
+      <option name="closed" value="true" />
+      <created>1726344800663</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726344800663</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add graphics">
+      <option name="closed" value="true" />
+      <created>1726348652382</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726348652382</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Clean up primitives">
+      <option name="closed" value="true" />
+      <created>1726350792782</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726350792782</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Clean up and improve grab anchor">
+      <option name="closed" value="true" />
+      <created>1726472829029</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726472829029</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Make dynamic platforms knockable and remove anchor gizmo">
+      <option name="closed" value="true" />
+      <created>1726476373668</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726476373668</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add some floor graphics">
+      <option name="closed" value="true" />
+      <created>1726484524573</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726484524573</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add touch support">
+      <option name="closed" value="true" />
+      <created>1726491311603</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726491311603</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Enable local web dev using just">
+      <option name="closed" value="true" />
+      <created>1726494139425</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726494139425</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update some html">
+      <option name="closed" value="true" />
+      <created>1726496051842</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1726496051842</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update readme">
+      <option name="closed" value="true" />
+      <created>1726508315018</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726508315018</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update readme">
+      <option name="closed" value="true" />
+      <created>1726509464822</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1726509464822</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Update readme">
+      <option name="closed" value="true" />
+      <created>1726509926898</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1726509926898</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Update readme">
+      <option name="closed" value="true" />
+      <created>1726510377687</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1726510377687</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Setup release hooks">
+      <option name="closed" value="true" />
+      <created>1726514041475</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1726514041475</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Linting">
+      <option name="closed" value="true" />
+      <created>1726514388770</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1726514388770</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Add WindowResizePlugin to see if it makes itch.io happy when playing on mobile devices">
+      <option name="closed" value="true" />
+      <created>1726556090634</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1726556090634</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Remove some generated files. Include cargo.lock. Update screen resolution.">
+      <option name="closed" value="true" />
+      <created>1726572135282</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726572135282</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Update gitignore">
+      <option name="closed" value="true" />
+      <created>1726572300580</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1726572300580</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Remove unused manifest.json file">
+      <option name="closed" value="true" />
+      <created>1726572345065</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1726572345065</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Bump version">
+      <option name="closed" value="true" />
+      <created>1726572382623</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1726572382623</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Bump version">
+      <option name="closed" value="true" />
+      <created>1726572407404</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1726572407404</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Update template.md">
+      <option name="closed" value="true" />
+      <created>1726572531564</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1726572531564</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Adjust game to smaller screen size. Bump version.">
+      <option name="closed" value="true" />
+      <created>1726578084604</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1726578084604</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Add game reset button">
+      <option name="closed" value="true" />
+      <created>1726664802873</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1726664802873</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Bump version">
+      <option name="closed" value="true" />
+      <created>1726664892462</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1726664892462</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Update screen shots">
+      <option name="closed" value="true" />
+      <created>1726666929551</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1726666929551</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implement how vertices for liquid in rotating bottle" />
+    <MESSAGE value="Distribute water as bottle rotates" />
+    <MESSAGE value="Add physics engine and simulate water by two circles" />
+    <MESSAGE value="Trim som basic initial parameters" />
+    <MESSAGE value="Add primitives and colliders for bottle top and cap" />
+    <MESSAGE value="Add graphics" />
+    <MESSAGE value="Clean up primitives" />
+    <MESSAGE value="Clean up and improve grab anchor" />
+    <MESSAGE value="Make dynamic platforms knockable and remove anchor gizmo" />
+    <MESSAGE value="Add some floor graphics" />
+    <MESSAGE value="Add touch support" />
+    <MESSAGE value="Enable local web dev using just" />
+    <MESSAGE value="Update some html" />
+    <MESSAGE value="Update readme" />
+    <MESSAGE value="Setup release hooks" />
+    <MESSAGE value="Linting" />
+    <MESSAGE value="Add WindowResizePlugin to see if it makes itch.io happy when playing on mobile devices" />
+    <MESSAGE value="Remove some generated files. Include cargo.lock. Update screen resolution." />
+    <MESSAGE value="Update gitignore" />
+    <MESSAGE value="Remove unused manifest.json file" />
+    <MESSAGE value="Update template.md" />
+    <MESSAGE value="Adjust game to smaller screen size. Bump version." />
+    <MESSAGE value="Add game reset button" />
+    <MESSAGE value="Bump version" />
+    <MESSAGE value="Update screen shots" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update screen shots" />
+  </component>
+</project>

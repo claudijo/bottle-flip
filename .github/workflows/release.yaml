@@ -7,13 +7,13 @@ on:
 
 env:
   # update with the name of the main binary
-  binary: bevy_github_ci_template
+  binary: bottle_flip
   add_binaries_to_github_release: true
-  #itch_target: <itch.io-username>/<game-name>
+  itch_target: claudijo/bottle-flip
 
   # Before enabling LFS, please take a look at GitHub's documentation for costs and quota limits:
   # https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-storage-and-bandwidth-usage
-  use_git_lfs: false
+  use_git_lfs: true
 
 
 jobs:
@@ -220,7 +220,7 @@ jobs:
       - uses: dtolnay/rust-toolchain@stable
         with:
           targets: aarch64-apple-darwin
-      - name: Environment 
+      - name: Environment
         # macOS 11 was the first version to support ARM
         run: |
           export MACOSX_DEPLOYMENT_TARGET="11"
